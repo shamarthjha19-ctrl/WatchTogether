@@ -8,7 +8,7 @@ export function SocketProvider({ children }) {
   const [connected, setConnected] = useState(false)
 
   useEffect(() => {
-    const url = import.meta.env.VITE_SERVER_URL || 'http://localhost:3001'
+    const url = import.meta.env.VITE_SERVER_URL
 
     const socket = io(url, {
       autoConnect: true,

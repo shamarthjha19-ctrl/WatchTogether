@@ -2,7 +2,7 @@ WatchTogether
 
 A real-time web app to watch YouTube videos together with synced playback across multiple users.
 
-Live : https://watch-together-mlhzjkzpr-shamarth-jha.vercel.app/
+Live : https://watch-together-seven.vercel.app
 Features
 
 * Real-time sync (play, pause, seek, change video)
